@@ -10,7 +10,7 @@ This repository consists of assignments from AI and Big Data lecture. Jupyter no
 
 **For Healthcare Classification:**
 
-    Notebook file is under Healtcare Classification folder, called Klasifikasi_Pasien_Stroke.ipynb
+    Notebook file is under Healthcare Classification folder, called Klasifikasi_Pasien_Stroke.ipynb
 
 ### A. Google Colab
 
