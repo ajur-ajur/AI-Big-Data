@@ -15,15 +15,15 @@ This repository consists of assignments from AI and Big Data lecture. Jupyter no
 ### A. Google Colab
 
     1. Download Klasifikasi_Pasien_Stroke.ipynb
-    2. Open notebook from Google Colab
-    3. Select upload
+    2. Open notebook in Google Colab
+    3. Select 'Upload'
     4. Browse and select the file
     5. Run the code
 
     OR
 
-    1. Open notebook from Google Colab
-    2. Select GitHub
+    1. Open notebook in Google Colab
+    2. Select 'GitHub'
     3. Enter this url:
 
 `https://github.com/ajur-ajur/AI-Big-Data/blob/main/Healthcare%20Classification/Klasifikasi_Pasien_Stroke.ipynb`
