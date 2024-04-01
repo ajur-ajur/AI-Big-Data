@@ -26,7 +26,7 @@ This repository consists of assignments from AI and Big Data lecture. Jupyter no
     2. Select 'GitHub'
     3. Enter this url:
 
-`https://github.com/ajur-ajur/AI-Big-Data/blob/main/Healthcare%20Classification/Klasifikasi_Pasien_Stroke.ipynb`
+`https://github.com/ajur-ajur/AI-Big-Data`
 
     4. Select the corresponding file that appears
     5. Run the code
